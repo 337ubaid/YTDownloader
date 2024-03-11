@@ -1,11 +1,10 @@
 # YTDownloader
 
-project to automatically download from youtube using [pytube module](https://pytube.io/en/latest/)
-## main.py
-```main.py``` is a template from [Internet Made Coder](https://www.youtube.com/watch?v=vEQ8CXFWLZU&t=543s&ab_channel=InternetMadeCoder).
-launch the ```main.py``` following the link on the command line:
-```
-python main.py "https://example.com"
-```
-## try.ipynb
-```try.ipynb``` is file to try specific link and trying to using GUI.
+a project to automatically download a video from youtube
+
+## Step to Download
+1. Download File below
+2. Run ```YTDownloader.exe``` on ```/dist``` folder
+3. fill the field with youtube link
+4. Click Download
+5. The video will automatically downloaded at highest resolution at path ```D:/Downloads/Videos```
